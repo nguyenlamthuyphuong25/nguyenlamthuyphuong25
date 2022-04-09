@@ -37,7 +37,7 @@ Thuy Phuong is
 
 ### Ending
 <div align="center">
-  <img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/Thank_you.gif" alt="Thanks!" width="300"/>
+  <img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/Thank_you.gif" alt="Thanks!" width="600"/>
 </div>
 
 
