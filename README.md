@@ -1,6 +1,6 @@
 <div align="center" width="300">
 
-<img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" alt="Welcome!" width="300"/>
+<img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/intro.gif" alt="Welcome!" width="300"/>
 
 </div>
 
