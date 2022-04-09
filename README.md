@@ -35,7 +35,7 @@ Thuy Phuong is
 [![](https://img.shields.io/badge/GitHub-nguyenlamthuyphuong25-yellow)](https://github.com/nguyenlamthuyphuong25)
 [![](https://img.shields.io/badge/Facebook-PhuongNLT.1302-yellow)](https://www.facebook.com/PhuongNLT.1302/)
 
-### Ending
+<p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/End.gif"></p>
 <div align="center">
   <img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/Thank_you.gif" alt="Thanks!" width="600"/>
 </div>
