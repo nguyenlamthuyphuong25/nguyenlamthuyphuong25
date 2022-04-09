@@ -1,9 +1,4 @@
-
-<div border-radius="50%" align="center">
-
 <img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/intro.gif" alt="Welcome!"/>
-
-</div>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
 
