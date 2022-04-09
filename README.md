@@ -1,6 +1,6 @@
 <h2> Hi, I'm Thuy Phuong! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+> <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Studying Software Enginnering at <a target="_blank" href="https://hcmuni.fpt.edu.vn/">FPT University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 [![](https://img.shields.io/badge/LinkedIn-PhuongNLT130201-blue)](https://www.linkedin.com/in/PhuongNLT130201/)
