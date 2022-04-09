@@ -7,7 +7,7 @@ Thuy Phuong is
 - 👨‍💻 A Third-year Student in Software Engineering at FPT University HCM.
 - 📚 Currently learning to become Frontend developer.
 - 💪🏼 Having BIG BIG LOVE with web-design.
-- 💪🏼 In the future, I want to learn more about Backend and Frontend technology to become Fullstack Developer.
+- 🌱 In the future, I want to learn more about Backend and Frontend technology to become Fullstack Developer.
   
 <p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/tittle.gif"></p>
     
