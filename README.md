@@ -1,9 +1,11 @@
 <img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/intro.gif"></h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
 
-- 👨‍💻 I’m a Third-year Student in Software Engineering at FPT University HCM.
-- 📚 I’m currently learning to become Frontend developer.
+
+## Thuy Phuong is
+- 👨‍💻 A Third-year Student in Software Engineering at FPT University HCM.
+- 📚 Currently learning to become Frontend developer.
 - 💪🏼 Having BIG BIG LOVE with web-design.
 - 💪🏼 In the future, I want to learn more about Backend and Frontend technology to become Fullstack Developer.
   
