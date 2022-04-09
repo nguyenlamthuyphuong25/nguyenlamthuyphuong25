@@ -1,8 +1,3 @@
-<div border-radius="50%" align="center" width="300">
-
-<img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" alt="Welcome!" width="200"/>
-
-</div>
 
 <div border-radius="50%" align="center" width="300">
 
@@ -10,7 +5,7 @@
 
 </div>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gifg" width="230"/>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
 
 Thuy Phuong is
 - 👨‍💻 A Third-year Student in Software Engineering at FPT University HCM.
