@@ -2,8 +2,10 @@
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p><em>Studying Software Enginnering at <a target="_blank" href="https://hcmuni.fpt.edu.vn/">FPT University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
-  <p><strong>Having BIG BIG LOVE with web-design!</p>
+- 👨‍💻 I’m a Third-year Student in Software Engineering at FPT University HCM.
+- 📚 I’m currently learning to become Frontend developer.
+- 💪🏼 Having BIG BIG LOVE with web-design.
+- 💪🏼 In the future, I want to learn more about Backend and Frontend technology to become Fullstack Developer.
   
 <p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/tittle.gif"></p>
     
@@ -22,5 +24,7 @@
 [![](https://img.shields.io/badge/Gmail-nguyenlamthuyphuong25@gmail.com-red)](mailto:nguyenlamthuyphuong25@gmail.com)
 [![](https://img.shields.io/badge/GitHub-nguyenlamthuyphuong25-yellow)](https://github.com/nguyenlamthuyphuong25)
 [![](https://img.shields.io/badge/Facebook-PhuongNLT.1302-yellow)](https://www.facebook.com/PhuongNLT.1302/)
+
+
 
 
