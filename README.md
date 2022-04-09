@@ -18,23 +18,23 @@ Thuy Phuong is
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
-<p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/contact_TP.gif"></p>
-
-[![](https://img.shields.io/badge/LinkedIn-PhuongNLT130201-blue)](https://www.linkedin.com/in/PhuongNLT130201/)
-[![](https://img.shields.io/badge/Gmail-nguyenlamthuyphuong25@gmail.com-red)](mailto:nguyenlamthuyphuong25@gmail.com)
-[![](https://img.shields.io/badge/GitHub-nguyenlamthuyphuong25-yellow)](https://github.com/nguyenlamthuyphuong25)
-[![](https://img.shields.io/badge/Facebook-PhuongNLT.1302-yellow)](https://www.facebook.com/PhuongNLT.1302/)
-
 <p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/more.gif"></p>
 
 <div align="center" width="300">
 <img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/pic_TP.jpg" alt="My Picture!" width="300"/>
 </div>
 
-
 <div align="center">
   <em>I always wish I could become a small star contributing to the brilliance of the tech sky ❤
 </div>
+  
+
+<p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/contact_TP.gif"></p>
+
+[![](https://img.shields.io/badge/LinkedIn-PhuongNLT130201-blue)](https://www.linkedin.com/in/PhuongNLT130201/)
+[![](https://img.shields.io/badge/Gmail-nguyenlamthuyphuong25@gmail.com-red)](mailto:nguyenlamthuyphuong25@gmail.com)
+[![](https://img.shields.io/badge/GitHub-nguyenlamthuyphuong25-yellow)](https://github.com/nguyenlamthuyphuong25)
+[![](https://img.shields.io/badge/Facebook-PhuongNLT.1302-yellow)](https://www.facebook.com/PhuongNLT.1302/)
 
 
 
