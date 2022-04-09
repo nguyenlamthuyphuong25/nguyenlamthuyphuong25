@@ -5,7 +5,7 @@
 <p><em>Studying Software Enginnering at <a target="_blank" href="https://hcmuni.fpt.edu.vn/">FPT University </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></p>
   <p><strong>Having BIG BIG LOVE with web-design!</p>
   
-<p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/Tittle.gif" width="300"></p>
+<p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/Tittle.gif"></p>
     
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
@@ -16,7 +16,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 
-<p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/Contact.gif" width="300"></p>
+<p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/Contact.gif"></p>
 [![](https://img.shields.io/badge/LinkedIn-PhuongNLT130201-blue)](https://www.linkedin.com/in/PhuongNLT130201/)
 [![](https://img.shields.io/badge/Gmail-nguyenlamthuyphuong25@gmail.com-red)](mailto:nguyenlamthuyphuong25@gmail.com)
 [![](https://img.shields.io/badge/GitHub-nguyenlamthuyphuong25-yellow)](https://github.com/nguyenlamthuyphuong25)
