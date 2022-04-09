@@ -1,5 +1,5 @@
 
-<div border-radius="50%" align="center" width="300">
+<div border-radius="50%" align="center">
 
 <img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/intro.gif" alt="Welcome!"/>
 
