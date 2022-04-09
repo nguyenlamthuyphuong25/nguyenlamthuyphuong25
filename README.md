@@ -28,7 +28,7 @@ Thuy Phuong is
   <em>I always wish I could become a small star contributing to the brilliance of the tech sky ❤
 </div>
   
-Click here to see more 👉 https://nguyenlamthuyphuong25.github.io/my-profile/?fbclid=IwAR1ZEewu_51nXjZ2XR4xBiexDe1zwtrB8HgRsTfbilcAIAwARFUZ-PW18zs
+  <p>Click here to see more</p> 👉 https://nguyenlamthuyphuong25.github.io/my-profile/?fbclid=IwAR1ZEewu_51nXjZ2XR4xBiexDe1zwtrB8HgRsTfbilcAIAwARFUZ-PW18zs
   
 
 <p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/contact_TP.gif"></p>
