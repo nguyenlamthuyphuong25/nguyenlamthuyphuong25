@@ -1,4 +1,4 @@
-https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25.github.io
+https://nguyenlamthuyphuong25.github.io/my-profile/?fbclid=IwAR1ZEewu_51nXjZ2XR4xBiexDe1zwtrB8HgRsTfbilcAIAwARFUZ-PW18zs
 
 <img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/intro.gif" alt="Welcome!"/>
 
