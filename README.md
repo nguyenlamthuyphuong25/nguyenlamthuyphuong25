@@ -1,4 +1,4 @@
-<h2> Hi, I'm Thuy Phuong! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/profile_TP.gif"></h2>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
