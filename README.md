@@ -25,7 +25,7 @@ Thuy Phuong is
 </div>
 
 <div align="center">
-  <em>I always wish I could become a small star contributing to the brilliance of the tech sky ❤
+  <em>I always wish I could become a small star contributing to the brilliance of the tech sky ❤</em>
 </div>
   
 <p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/contact_TP.gif"></p>
