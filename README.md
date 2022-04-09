@@ -17,6 +17,7 @@
 
 
 <p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/Contact.gif"></p>
+
 [![](https://img.shields.io/badge/LinkedIn-PhuongNLT130201-blue)](https://www.linkedin.com/in/PhuongNLT130201/)
 [![](https://img.shields.io/badge/Gmail-nguyenlamthuyphuong25@gmail.com-red)](mailto:nguyenlamthuyphuong25@gmail.com)
 [![](https://img.shields.io/badge/GitHub-nguyenlamthuyphuong25-yellow)](https://github.com/nguyenlamthuyphuong25)
