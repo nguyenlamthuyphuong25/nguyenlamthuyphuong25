@@ -1,6 +1,6 @@
 <div border-radius="50%" align="center" width="300">
 
-<img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/pic_TP.jpg" alt="Welcome!" width="300"/>
+<img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" alt="Welcome!" width="200"/>
 
 </div>
 
