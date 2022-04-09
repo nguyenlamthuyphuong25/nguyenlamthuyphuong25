@@ -1,8 +1,6 @@
-<img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/pic_TP.jpg" style="margin: auto" width="300"></h2>
-
 <img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/intro.gif"></h2>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
+<img align='right' src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/pic_TP.jpg" width="230"/>
 
 
 Thuy Phuong is
