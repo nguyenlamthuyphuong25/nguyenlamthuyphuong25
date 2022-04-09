@@ -6,4 +6,4 @@
 [![](https://img.shields.io/badge/Facebook-PhuongNLT.1302-yellow)](https://www.facebook.com/PhuongNLT.1302/)
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Studying Software Enginnering at <a href="https://hcmuni.fpt.edu.vn/">FPT University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Studying Software Enginnering at <a target='_blank' href="https://hcmuni.fpt.edu.vn/">FPT University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
