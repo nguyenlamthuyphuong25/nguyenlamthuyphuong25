@@ -1,13 +1,12 @@
-<img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/intro.gif">
-
 <div align="center" width="300">
 
 <img src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" alt="Welcome!" width="300"/>
 
 </div>
 
-<img align='right' src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/pic_TP.jpg" width="230"/>
+<img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/intro.gif">
 
+<img align='right' src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/pic_TP.jpg" width="230"/>
 
 Thuy Phuong is
 - 👨‍💻 A Third-year Student in Software Engineering at FPT University HCM.
@@ -24,7 +23,6 @@ Thuy Phuong is
 ![Microsoft Sql Server](https://img.shields.io/badge/-Sql%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-
 
 <p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/contact_TP.gif"></p>
 
