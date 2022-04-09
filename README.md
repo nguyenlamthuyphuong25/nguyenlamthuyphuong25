@@ -28,3 +28,9 @@ Thuy Phuong is
 
 <div align="center" width="300"><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/pic_TP.jpg"></div>
 
+<div align="center" width="300">
+
+<img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/pic_TP.jpg" alt="My Picture!" width="300"/>
+
+</div>
+
