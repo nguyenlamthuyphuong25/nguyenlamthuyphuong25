@@ -4,7 +4,11 @@
 
 </div>
 
-<img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/intro.gif">
+<div border-radius="50%" align="center" width="300">
+
+<img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/intro.gif" alt="Welcome!"/>
+
+</div>
 
 <img align='right' src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/pic_TP.jpg" width="230"/>
 
