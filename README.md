@@ -10,7 +10,7 @@
 
 </div>
 
-<img align='right' src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/pic_TP.jpg" width="230"/>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gifg" width="230"/>
 
 Thuy Phuong is
 - 👨‍💻 A Third-year Student in Software Engineering at FPT University HCM.
