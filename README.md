@@ -12,6 +12,7 @@
 [![](https://img.shields.io/badge/Facebook-PhuongNLT.1302-yellow)](https://www.facebook.com/PhuongNLT.1302/)
   
 <img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/Tittle.gif" width="300">
+<br/>
     
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
