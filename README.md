@@ -31,6 +31,10 @@ Thuy Phuong is
 <img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/pic_TP.jpg" alt="My Picture!" width="300"/>
 </div>
 
-<p><em>I always wish I could become a small star contributing to the brilliance of the tech sky ❤
+
+<div align="center">
+  <em>I always wish I could become a small star contributing to the brilliance of the tech sky ❤
+</div>
+
 
 
