@@ -26,5 +26,5 @@ Thuy Phuong is
 [![](https://img.shields.io/badge/Facebook-PhuongNLT.1302-yellow)](https://www.facebook.com/PhuongNLT.1302/)
 
 
-
+<p><img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/pic_TP.gif"></p>
 
