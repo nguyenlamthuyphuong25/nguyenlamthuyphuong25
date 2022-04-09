@@ -1,4 +1,4 @@
-<img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/intro.gif" alt="Welcome!"/>
+<img src="https://github.com/nguyenlamthuyphuong25/nguyenlamthuyphuong25/blob/main/Intro_TP.gif" alt="Welcome!"/>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
 
