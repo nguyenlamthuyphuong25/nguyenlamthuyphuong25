@@ -3,8 +3,8 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230"/>
 
 Thuy Phuong is
-- 👨‍💻 A Third-year Student in Software Engineering at FPT University HCM.
-- 📚 Currently learning to become Frontend developer.
+- 👨‍💻 Having a Software Engineering degree at FPT University HCM.
+- 📚 Currently Frontend developer.
 - 💪🏼 Having BIG BIG LOVE with web-design.
 - 🌱 In the future, I want to learn more about Backend and Frontend technology to become Fullstack Developer.
   
